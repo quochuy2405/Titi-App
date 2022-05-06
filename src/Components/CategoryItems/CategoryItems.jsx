@@ -8,79 +8,63 @@ const listCategory = [
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Thiết bị số',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Điện thoại',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Mẹ và bé',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Làm đẹp',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Gia dụng',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Thời trang nữ',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Thời trang nam',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Giày nữ',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Giày nam ',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Túi nữ',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Balo vali',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Phụ kiện',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Đồng hồ',
     link: '/',
   },
   {
-    name: 'Điện tử',
+    name: 'Xe',
     link: '/',
   },
   {
-    name: 'Điện tử',
-    link: '/',
-  },
-  {
-    name: 'Điện tử',
-    link: '/',
-  },
-  {
-    name: 'Điện tử',
-    link: '/',
-  },
-  {
-    name: 'Điện tử',
-    link: '/',
-  },
-  {
-    name: 'Điện tử',
+    name: 'Sách',
     link: '/',
   },
 ]

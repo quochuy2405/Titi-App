@@ -1,5 +1,5 @@
 import React from 'react'
-import { Banner, Header, CategoryItems, Product } from '../../Components'
+import { Banner, Header, CategoryItems, ListProduct, Footer } from '../../Components'
 
 export default function Home() {
   return (
@@ -7,7 +7,8 @@ export default function Home() {
       <Header />
       <CategoryItems />
       <Banner />
-      <Product />
+      <ListProduct />
+      <Footer />
     </div>
   )
 }

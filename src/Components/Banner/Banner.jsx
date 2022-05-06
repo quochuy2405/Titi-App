@@ -1,5 +1,5 @@
 import React from 'react'
-import { ImageBanner } from '../../../public'
+import ImageBanner from '../../Image/banner.png'
 import Styles from './Banner.module.scss'
 export default function Banner() {
   return (

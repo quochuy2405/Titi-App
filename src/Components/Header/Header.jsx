@@ -2,7 +2,9 @@ import Styles from './Header.module.scss'
 import { BsSearch } from 'react-icons/bs'
 import { FaUserCircle } from 'react-icons/fa'
 import { AiOutlineShoppingCart } from 'react-icons/ai'
-import { Logo, Freeship } from '../../../public'
+import Logo from '../../Image/logo.png'
+import Freeship from '../../Image/freeship.png'
+
 export default function Header() {
   return (
     <div className={Styles.Header}>
